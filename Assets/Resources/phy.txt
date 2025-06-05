@@ -1,0 +1,23 @@
+1) Küresel ısınma, buzulların erimesi, iklimlendirme konuları fizik biliminin hangi alt alanı ile ilgilidir?
+a) Optik
+B) Termodinamik
+c) Mekanik
+d) Nükleer Fizik
+
+2) Atom altı parçacıklar ve bu parçacıklar arasındaki ilişkiyi inceleyen fizik alt dalı hangisidir?
+a) Termodinamik
+b) Katıhal fiziği
+C) Nükleer fizik
+d) Optik
+
+3) Bir maddenin akışkanlığa karşı gösterdiği dirence ne denir?
+A) Viskozite
+b) Yansıma
+c) Sürtünme
+d) Mercek
+
+4) Bir maddeye ısı verildiğinde aşağıdakilerden hangisi kesinlikle gerçekleşmez?
+a) Sıcaklığı artar
+b) Genleşir
+c) Hal değiştirir
+D) Isısı artar

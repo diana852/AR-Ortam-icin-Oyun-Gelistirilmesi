@@ -1,0 +1,23 @@
+1) 50 sayısının %20'si kaç eder?
+a) 15
+b) 30
+c) 20
+D) 10
+
+2) 3a + 15 = 30 ise a kaçtır?
+a) 3
+B) 5
+c) 4
+d) 6
+
+3) 4 - 8 - 32 - 64 - a örüntüsüne göre a kaçtır?
+A) 256
+b) 128
+c) 512
+d) 384
+
+4) Yüksekliği 10 cm , tabanı 20 cm olan bir dik üçgenin alanı kaç santimetre karedir?
+a) 300
+b) 200
+C) 100
+d) 150

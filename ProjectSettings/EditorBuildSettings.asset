@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameUI_SP.unity
+    guid: 80d98062c462f2842bcdf11101cca22e
+  - enabled: 1
+    path: Assets/Scenes/StudyAR 2.unity
+    guid: a35b6a1949a02f04f924df656d97f4e8
+  - enabled: 1
+    path: Assets/Scenes/PuzzleMonaLisa.unity
+    guid: edc0d482e7589034a8215e2b161c1c17
+  - enabled: 1
+    path: Assets/Scenes/PuzzleScream.unity
+    guid: 6f326c42e09d7484187d8ce5d3b9046a
+  - enabled: 1
+    path: Assets/Scenes/PuzzleSunflowers.unity
+    guid: 9d4dfa61b1abc8e45849114d7a58c807
+  - enabled: 1
+    path: Assets/Scenes/MemoryCard_UI.unity
+    guid: 2631c67c8aad60242af143863c4020b9
+  - enabled: 1
+    path: Assets/Scenes/AR_Basketball.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ARGalleryMonaLisa.unity
+    guid: 818f893c247b14b40a44ea3b74fb5ab2
+  - enabled: 1
+    path: Assets/Scenes/ARGalleryScream.unity
+    guid: 268111e4c04942c4b91c66bfe3f09442
+  - enabled: 1
+    path: Assets/Scenes/ARGallerySunflowers.unity
+    guid: 0d4b9a9f43195964aac56da171836b5c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 575b776a854af5d48ba9b311de0fc5b7,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8aae11863ce7bad4294b005deab766b0,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 70b952fdcdfcada4eab580dc80c113bd, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: e40f4033c0e2f1a43a582f1d796cbba0, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: cc75eb97e7ae83349af98c84d7981dfa,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fc2e69886923ac448b1ae2288694a182,
+      type: 2}
